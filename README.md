@@ -5,7 +5,6 @@
 **`Digital Craftsman & Educator`**
 
 * 🌍 I'm based in Nairobi nrb
-* ✉️ You can contact me at [igor.wnek@ikcode.dev](mailto:igor.wnek@ikcode.dev)
 * ❓ Ask me a question about programming at [my Instagram](https://www.instagram.com/ikcode_igorwnek)
 * 🧠 Languages I learn or master: JavaScript, TypeScript, Rust
 * 🤔 My other software related interests: serverless, 🧩 microservices, 🧪 TDD, 🏗️ DDD, 🤖 AI & LLMs
