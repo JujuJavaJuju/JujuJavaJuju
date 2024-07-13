@@ -6,7 +6,7 @@
 
 * 🌍 I'm based in Nairobi nrb
 * ❓ Ask me a question about programming at [my Instagram](https://www.instagram.com/ikcode_igorwnek)
-* 🧠 Languages I learn or master: JavaScript, TypeScript, Rust
+* 🧠 Languages I learn or master: Java, C#, Golang
 * 🤔 My other software related interests: serverless, 🧩 microservices, 🧪 TDD, 🏗️ DDD, 🤖 AI & LLMs
 * ⚡ PlayStation player
 
