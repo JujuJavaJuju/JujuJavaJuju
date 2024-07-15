@@ -6,7 +6,7 @@
 
 I teach kids how to code
 
-* 🌍 I'm based in Nairobi nrb
+* 🌍 I'm based in Nairobi 
 * ❓ Ask me a question about programming at [my Instagram](https://www.instagram.com/ikcode_igorwnek)
 * 🧠 Languages I learn or master: Java, C#, Golang
 * 🤔 My other software related interests: serverless, 🧩 microservices, 🧪 TDD, 🏗️ DDD, 🤖 AI & LLMs
