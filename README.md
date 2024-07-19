@@ -31,15 +31,6 @@ Passionate Software Engineer with over four years of commercial experience, dedi
 Stay tuned for what's to come, and don't forget to check out my YouTube channel for a deeper dive into the world of coding and software craftsmanship!
 
 ---
-
-### 📗 Latest Blog Posts
-
-<!-- BLOG-POSTS:START -->
-- [Secret About Making Constant Progress](https://medium.com/@igor_wnek/secret-about-making-constant-progress-44c04b4dfa72?source=rss-158e4340aa51------2)
-<!-- BLOG-POSTS:END -->
-
----
-
 <details>
     <summary><b>🛠️ Languages and Tools</b></summary>
     <br />
