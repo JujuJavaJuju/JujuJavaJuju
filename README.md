@@ -26,7 +26,7 @@ I teach kids how to code
 
 ### ✨ About me
 
-Passionate Software Engineer with over four years of commercial experience, dedicated to the art of app development and the pursuit of software craftsmanship. My journey has been defined by a relentless commitment to clean code, robust architecture, and best practices in software development. Now, I'm venturing into the realm of digital education and creation, eager to share my knowledge and explore innovative ideas through my [IKcode Igor Wnek](https://www.youtube.com/channel/UCcDvJJBiUbqKjdezkLkjtyQ) YouTube channel. Join me as we unlock the potential of technology together.
+Passionate Software Engineer with over four years of commercial experience, dedicated to the art of app development and the pursuit of software craftsmanship... My journey has been defined by a relentless commitment to clean code, robust architecture, and best practices in software development. Now, I'm venturing into the realm of digital education and creation, eager to share my knowledge and explore innovative ideas through my [IKcode Igor Wnek](https://www.youtube.com/channel/UCcDvJJBiUbqKjdezkLkjtyQ) YouTube channel. Join me as we unlock the potential of technology together.
 <br />
 Stay tuned for what's to come, and don't forget to check out my YouTube channel for a deeper dive into the world of coding and software craftsmanship!
 
