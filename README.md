@@ -4,7 +4,7 @@
 
 **`Digital Craftsman & Educator`**
 
-I teach kids how to code
+I teach kids how to code + absolute beginners 
 
 * 🌍 I'm based in Nairobi 
 * ❓ Ask me a question about programming at (https://www.instagram.com/hastycode_ke)
