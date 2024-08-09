@@ -10,7 +10,7 @@ I teach kids how to code
 * ❓ Ask me questions about programming at (https://www.instagram.com/hastycode_ke)
 * 🧠 Languages I learn or master: Java, C#, Golang
 * 🤔 My other software related interests: serverless, 🧩 microservices, 🧪 TDD ++ 🏗️ DDD, 🤖 AI & LLMs ...
-* ⚡ PlayStation player
+* ⚡ PlayStation fanatic
 
 ### 🔗Connect With Me
 
